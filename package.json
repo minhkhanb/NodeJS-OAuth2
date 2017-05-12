@@ -1,0 +1,24 @@
+{
+  "name": "NodeJS-OAuth2",
+  "version": "1.0.0",
+  "description": "This is the code listing for a tutorial about using OAuth2 in client-side JavaScript apps. You can read it at [tests4geeks](https://tests4geeks.com/tutorials/oauth2-javascript-tutorial/).",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minhkhanb/NodeJS-OAuth2.git"
+  },
+  "keywords": [],
+  "author": "KhaLe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhkhanb/NodeJS-OAuth2/issues"
+  },
+  "homepage": "https://github.com/minhkhanb/NodeJS-OAuth2",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
